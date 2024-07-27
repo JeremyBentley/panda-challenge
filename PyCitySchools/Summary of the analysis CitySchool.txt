@@ -1,0 +1,11 @@
+Summary of the analysis:
+- There are a total of fifteen schools in the city, with eight being charter schools and seven public schools. The combined student population of all the schools totals 39,170.
+- The total budget for the city schools is $24,649,428.00.
+- The average math score for city schools is 78.98, with an overall passing percentage of 74.98%.
+- The average reading score is 81.87, with an overall passing percentage of 85.80%.
+- The overall passing rate for both math and reading is 65.17%.
+
+Conclusions:
+- Charter schools are the top five schools, with an overall passing rate above 90%, while district schools are in the bottom five with an overall passing rate below 54% in both math and reading. This indicates significant differences between charter and district schools in terms of test scores, highlighting the impact of smaller student populations on higher academic performance. Small and medium-sized schools had similar average grades, unlike their larger counterparts.
+
+- Upon initial analysis, the data reveals that higher spending per student does not guarantee improved academic performance. Bailey High School, with 4,976 students and the highest school budget of $3,124,928.00, likely allocates more resources to school maintenance rather than focusing on academics.
